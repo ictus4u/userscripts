@@ -1,0 +1,6 @@
+# Ignore everything
+*
+# Except this files
+!.editorconfig
+!.gitignore
+!README.md
