@@ -21,7 +21,7 @@ WhatsApp currently does not have a feature to hide messages from users in shared
 1. **Blocking Users:**
 
     - Place the cursor over the name of the message author in the group.
-    - Press `Ctrl+T` to activate the blocking function.
+    - Press `Ctrl+Shift+X` to activate the blocking function.
     - A confirmation message will appear to add or remove the user from the blocked list.
 
 2. **Hiding Styles:**
