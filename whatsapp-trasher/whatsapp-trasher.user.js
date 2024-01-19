@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name        WhatsApp Trasher
+// @description Hides messages from people you don't like on WhatsApp groups. Worked on top of (non-working at the time) https://greasyfork.org/en/scripts/381135-whatsapp-banhammer.
+// @version     1.1.3
+// @author      https://github.com/ictus4u
+// @license     GPLv3
 // @namespace   https://github.com/ictus4u/userscripts
 // @match       https://web.whatsapp.com/
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=whatsapp.com
 // @grant       none
-// @version     1.1.3
-// @license     GPLv3
-// @author      https://github.com/ictus4u
-// @description Hides messages from people you don't like on WhatsApp groups. Worked on top of (non-working at the time) https://greasyfork.org/en/scripts/381135-whatsapp-banhammer.
 // @downloadURL https://github.com/ictus4u/userscripts/raw/main/whatsapp-trasher/whatsapp-trasher.user.js
 // @updateURL   https://github.com/ictus4u/userscripts/raw/main/whatsapp-trasher/whatsapp-trasher.user.js
 // ==/UserScript==
